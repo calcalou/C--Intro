@@ -1,0 +1,7 @@
+C:\Users\calca\Documents\GitHub\csharp-intro\intro_csharp\bin\Debug\intro_csharp.exe.config
+C:\Users\calca\Documents\GitHub\csharp-intro\intro_csharp\bin\Debug\intro_csharp.exe
+C:\Users\calca\Documents\GitHub\csharp-intro\intro_csharp\bin\Debug\intro_csharp.pdb
+C:\Users\calca\Documents\GitHub\csharp-intro\intro_csharp\obj\Debug\intro_csharp.csproj.AssemblyReference.cache
+C:\Users\calca\Documents\GitHub\csharp-intro\intro_csharp\obj\Debug\intro_csharp.csproj.CoreCompileInputs.cache
+C:\Users\calca\Documents\GitHub\csharp-intro\intro_csharp\obj\Debug\intro_csharp.exe
+C:\Users\calca\Documents\GitHub\csharp-intro\intro_csharp\obj\Debug\intro_csharp.pdb
